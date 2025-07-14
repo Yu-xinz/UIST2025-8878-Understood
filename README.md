@@ -4,7 +4,7 @@
 
 Due to the large file size of the project, the complete Unity project is hosted on Google Drive:  
 
-[Download the project here] (<https://drive.google.com/drive/folders/1hnVp1BrtXYg6DWzqMJpbO3f\_Or7lRaQy?usp=drive\_link>)
+[Download the project here] (<https://drive.google.com/drive/folders/1hnVp1BrtXYg6DWzqMJpbO3f_Or7lRaQy?usp=sharing>)
 
 
 
